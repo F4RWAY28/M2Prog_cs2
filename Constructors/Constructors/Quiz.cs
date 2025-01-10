@@ -26,10 +26,8 @@ namespace Constructors
         {
             vragen[index] = new QuizVraag(vraag, antwoord);
 
-            internal void (int vraagIndex)
-            {
-                QuizVraag vraag = vragen[index];
-            }
+       
+            
         }
 
     }

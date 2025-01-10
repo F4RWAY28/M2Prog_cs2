@@ -18,17 +18,7 @@ namespace Constructors
             this.vraag = vraag;
             this.goed = false;
         }
-        QuizVraagAntwoord quizVraagAntwoord = new QuizVraagAntwoord(vraag);
-
-
-Console.Writeline
-
-        if(QuizVraagAntwoord = false)
-        {
-        Console.Writeline: ("Goed gedaan!")
-
-            
-        }
+        
     }
     
 
